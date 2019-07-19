@@ -1,6 +1,5 @@
 fun main(){
 
     
-    val name = "Murat"
-    print(name)
+	print("Naber la murroooo")
 }
